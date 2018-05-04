@@ -8,13 +8,12 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "autoprefixer": "^7.2.3",
     "gulp": "^3.9.1",
     "gulp-gh-pages": "^0.5.4",
-    "gulp-jade": "^1.1.0"
-  },
-  "devDependencies": {
+    "gulp-jade": "^1.1.0",
     "babel-core": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "browser-sync": "^2.21.0",
